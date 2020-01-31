@@ -11,33 +11,34 @@ public class OfflineExercises {
 	// multChar("Hi-There") � "HHHiii---TTThhheeerrreee"
 
 	public String multChar(String input) {
+		return null;
 	}
 
 	public static void main(String[]args) {
     	//foreachloop
-   
-    	char[] The = {'TTThhheee'};
-    	
-    	  for (char item: The);
-    		   System.out.println(item);
-    		
-    
-    		   
-    		   
-    		   char[] AAbb = {'AAAAAbbbbbb'}{
-    	    	
-    	    	  for (char item2: AAbb);
-    	    		   System.out.println(item2);
-    		   }
-    	    		   
-    	    		   
-    	    		   
-    	    		   char[] Hi-There = {'HHHiii---TTThhheeerrreee'}{
-    	    	    	
-    	    	    	  for (char item3: Hi-There);
-    	    	    		   System.out.println(item3);
-    	    	    		   
-    	    		   }
+//   
+//    	char[] The = {'TTThhheee'};
+//    	
+//    	  for (char item: The);
+//    		   System.out.println(item);
+//    		
+//    
+//    		   
+////    		   
+////    		   char[] AAbb = {'AAAAAbbbbbb'}{
+//    	    	
+//    	    	  for (char item2: AAbb);
+//    	    		   System.out.println(item2);
+//    		   
+//    	    		   
+//    	    		   
+//    	    		   
+////    	    		   char[] Hi-There = {'HHHiii---TTThhheeerrreee'}{
+////    	    	    	
+//    	    	    	  for (char item3: Hi-There);
+//    	    	    		   System.out.println(item3);
+//    	    	    		   
+//    	    		   
     	    		   
 		
 	}
@@ -55,9 +56,9 @@ public class OfflineExercises {
 
 	public String getBert(String input) {
 		return "bert";
-		
-		reverse String "bert";
-		return String "bert";
+//		
+//		reverse String "bert";
+//		return String "bert";
 		
 		
 	}
@@ -76,30 +77,30 @@ public class OfflineExercises {
 
 	public boolean evenlySpaced(int a, int b, int c) {
 		return false;
-
-		boolean result = a < b;
-		return true;
-
-		boolean result = b < c;
-		return true;
-
-		boolean result = b < a;
-		return false;
-
-		int a = 2;
-		boolean b = a == 2;
-
-		if (b) {
-			System.out.println("It's false");
-
-			int b = 2;
-			boolean b = c == 2;
-
-			if (c) {
-				System.out.println("It's false");
-
-			}
-		}
+//
+//		boolean result = a < b;
+//		return true;
+//
+//		boolean result = b < c;
+//		return true;
+//
+//		boolean result = b < a;
+//		return false;
+//
+//		int a = 2;
+//		boolean b = a == 2;
+//
+//		if (b) {
+//			System.out.println("It's false");
+//
+//			int b = 2;
+//			boolean b = c == 2;
+//
+//			if (c) {
+//				System.out.println("It's false");
+//
+//			}
+//		}
 
 	}
 
@@ -111,15 +112,15 @@ public class OfflineExercises {
 	// nMid("Hello", 3) → "Ho"
 	// nMid("Chocolate", 3) → "Choate"
 	// nMid("Chocolate", 1) → "Choclate"
-
-	public String nMid(String input, int a,) {
-		return "n";
+//
+//	public String nMid(String input, int a,) {
+//		return "n";
 		
-		string.length 
-		remove int n;
+//		string.length 
+//		remove int n;
+//	
+		
 	
-		
-	}
 
 	// Given a string, return true if it ends in "dev". Ignore Case
 
@@ -131,11 +132,11 @@ public class OfflineExercises {
 	public boolean endsDev(String input) {
 		return false;
 		
-		String str = "Dev";
-		if str contains" Dev";
-		System.out.println("True");
-		
-		boolean if endsdev return true;
+//		String str = "Dev";
+//		if str contains" Dev";
+//		System.out.println("True");
+//		
+//		boolean if endsdev return true;
 	}
 
 	// Given a string, return the length of the largest "block" in the string.
@@ -145,11 +146,11 @@ public class OfflineExercises {
 	// superBlock("abbCCCddDDDeeEEE") → 3
 	// superBlock("") → 0
 
-	public int superBlock(String input) {
-		return -1;
-		System.out.println("CCC,DDD,EEE")
+//	public int superBlock(String input) {
+//		return -1;
+//		System.out.println("CCC,DDD,EEE")
 
-	}
+	
 
 	// given a string - return the number of times "am" appears in the String
 	// ignoring case -
@@ -162,13 +163,13 @@ public class OfflineExercises {
 
 	public int amISearch(String arg1) {
 		return 9;
-		i =  am
-		for int i = 0 i = am ; i ++) {
+//		i =  am
+//		for int i = 0 i = am ; i ++) {
 			
 			
 		}
 		
-	}
+
 
 	// given a number
 	// if this number is divisible by 3 return "fizz"
@@ -178,16 +179,16 @@ public class OfflineExercises {
 	// fizzBuzz(3) → "fizz"
 	// fizzBuzz(10) → "buzz"
 	// fizzBuzz(15) → "fizzbuzz"
-
-	public String fizzBuzz(int arg1) {
-		return null;
-		
-		int 3
-		
-				if int =%3 return "fizz";
-				if int = %5 return "buzz";
-				if int % by 3 && 5 return " fizzbuzz";
-	}
+//
+//	public String fizzBuzz(int arg1) {
+////		return null;
+//		
+////		int 3
+//		
+//				if int =%3 return "fizz";
+//				if int = %5 return "buzz";
+//				if int % by 3 && 5 return " fizzbuzz";
+//	}
 
 	// Given a string split the string into the individual numbers present
 	// then add each digit of each number to get a final value for each number
@@ -205,11 +206,11 @@ public class OfflineExercises {
 
 	public int largest(String arg1) {
 		return 0;
-		int 10 = 55;
-		int 9 = 72;
-		int 14 = 86;
+//		int 10 = 55;
+//		int 9 = 72;
+//		int 14 = 86;
 		
-		return 86;
+//		return 86;
 		
 		
 	}
